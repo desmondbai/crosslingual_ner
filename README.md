@@ -96,5 +96,4 @@ Console logs during execution display:
 
 ## ✍️ Author
 
-Modularized and packaged from original Jupyter Notebook by [your name or alias].
-
+Desmond Bai
